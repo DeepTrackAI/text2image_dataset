@@ -3,17 +3,17 @@
 ## Overview
 
 This DeepTrackAI repository contains a dataset of transformed MNIST digits paired with natural-language descriptions.  
-Images are generated using the notebook [create_transformed_images.ipynb](https://github.com/DeepTrackAI/text2image_dataset/blob/main/create_transformed_images.ipynb), which applies randomized color, rotation/flip, and contrast transformations to the original MNIST digits and saves both the transformed images and corresponding text prompts.
+Images are generated using the notebook [create_transformed_images.ipynb](https://github.com/DeepTrackAI/text2image_dataset/blob/main/create_transformed_images.ipynb), which applies randomized color, rotation/flip, and contrast transformations to the original [MNIST](http://yann.lecun.com/exdb/mnist/) digits and saves both the transformed images and corresponding text prompts.
 
 The dataset is designed for benchmarking text-to-image alignment and multimodal learning tasks.
 
 ### Summary
-- **Dataset Size**: equal to the number of [MNIST](http://yann.lecun.com/exdb/mnist/) images (60,000), each with one transformed version  
-- **Image Size**: 28 × 28 pixels  
-- **Format**: 8-bit RGB PNG images  
+- **Number of images**: equal to the number of MNIST images (60,000), each with one transformed version
+- **Image size**: 28 × 28 pixels  
+- **Image format**: 8-bit RGB PNG 
 - **Metadata**: JSON file mapping filenames to natural-language transformation descriptions  
 - **Transformations included**:  
-  - Digit colorization (e.g. “in red on a blue background”)  
+  - Digit colorization (e.g., “in red on a blue background”)  
   - Rotations (±90°, 180°)  
   - Horizontal mirror / vertical flip  
   - Auto-contrast normalization  
