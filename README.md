@@ -22,12 +22,20 @@ The dataset is designed for benchmarking text-to-image alignment and multimodal 
 
 ## Original Source
 
-- **Title**: The MNIST Database of Handwritten Digits  
-- **Authors**: Yann LeCun, Corinna Cortes, Christopher J.C. Burges
-- **Source**: [Official MNIST Website](http://yann.lecun.com/exdb/mnist/)  
-- **License**: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- **Base dataset**
+  - **Title**: The MNIST Database of Handwritten Digits  
+  - **Authors**: Yann LeCun, Corinna Cortes, Christopher J.C. Burges  
+  - **Source**: [Official MNIST Website](http://yann.lecun.com/exdb/mnist/)  
+  - **License**: [Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
 
-The transformed dataset in this repository is based on MNIST and therefore distributed under the same license. If you use this dataset, please follow the licensing requirements and provide proper attribution to the original authors.
+- **Derivative dataset**
+  - **Title**: Text-to-Image Transformed MNIST Dataset  
+  - **Authors**: Carlo Manzo  
+  - **Source**: This repository
+  - **License**: [Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
+
+If you use this dataset in your research, please follow the licensing requirements and properly attribute the original authors.
+
 
 ---
 
