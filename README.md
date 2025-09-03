@@ -123,7 +123,7 @@ Carlo Manzo. *Text-to-Image Transformed MNIST Dataset*. GitHub (2025).
 
 ## License
 
-As a derivative dataset, this repository is shared under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/) License, following the original licensing terms.
+As a derivative dataset, this repository is shared under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) License](https://creativecommons.org/licenses/by-sa/3.0/), following the original licensing terms.
 
 
 
