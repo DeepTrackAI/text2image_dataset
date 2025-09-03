@@ -107,8 +107,7 @@ LeCun Y, Bottou L, Bengio Y, Haffner P. *Gradient-based learning applied to docu
 ```
 
 ### Cite this repository:
-Carlo Manzo. *Text-to-Image Transformed MNIST Dataset*. GitHub (2025).  
-[GitHub](https://github.com/DeepTrackAI/text2image_dataset)
+Carlo Manzo. *Text-to-Image Transformed MNIST Dataset*. GitHub (2025). [GitHub](https://github.com/DeepTrackAI/text2image_dataset)
 
 ```bibtex
 @misc{text2image2025,  
