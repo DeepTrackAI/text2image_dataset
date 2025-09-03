@@ -23,12 +23,12 @@ The dataset is designed for benchmarking text-to-image alignment and multimodal 
 ## Original Source
 
 - **Base dataset**
- - **Title**: The MNIST Database of Handwritten Digits  
-- **Authors**: Yann LeCun, Corinna Cortes, Christopher J.C. Burges  
-- **Source**: [Official MNIST Website](http://yann.lecun.com/exdb/mnist/)
-- **Reference article**: LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. *Proceedings of the IEEE* 86(11): 2278-2324 (1998). [DOI: 10.1109/5.726791](https://doi.org/10.1109/5.726791) 
-- **License**: [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
-- **Note**: The original MNIST website is no longer actively maintained. An [archived version](https://web.archive.org/web/20200430193701/http://yann.lecun.com/exdb/mnist/) is available, and the dataset is widely mirrored (e.g., on Kaggle)./)
+  - **Title**: The MNIST Database of Handwritten Digits  
+  - **Authors**: Yann LeCun, Corinna Cortes, Christopher J.C. Burges  
+  - **Source**: [Official MNIST Website](http://yann.lecun.com/exdb/mnist/)
+  - **Reference article**: LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. *Proceedings of the IEEE* 86(11): 2278-2324 (1998). [DOI: 10.1109/5.726791](https://doi.org/10.1109/5.726791) 
+  - **License**: [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
+  - **Note**: The original MNIST website is no longer actively maintained. An [archived version](https://web.archive.org/web/20200430193701/http://yann.lecun.com/exdb/mnist/) is available, and the dataset is widely mirrored (e.g., on Kaggle).
 
 - **Derivative dataset**
   - **Title**: Text-to-Image Transformed MNIST Dataset  
@@ -123,7 +123,7 @@ Carlo Manzo. *Text-to-Image Transformed MNIST Dataset*. GitHub (2025).
 
 ## License
 
-This dataset is shared under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/) License, following the original licensing terms.
+As a derivative dataset, this repository is shared under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/) License, following the original licensing terms.
 
 
 
