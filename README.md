@@ -36,23 +36,23 @@ The dataset is designed for benchmarking text-to-image alignment and multimodal 
 
 If you use this dataset in your research, please follow the licensing requirements and properly attribute the original authors.
 
-
 ---
 
 ## Dataset Structure
 
 ```bash
 /text2image_dataset  
-  └── train/  
-      ├── images/  
-      │   ├── 0_00001.png  
-      │   ├── 0_00002.png  
-      │   └── ...  
-      └── image_descriptions.json  
+└── train/  
+    ├── images/                 # Transformed digit images 
+    │   ├── 0_000000.png  
+    │   ├── 0_000001.png  
+    │   └── ...  
+    └── image_descriptions.json # Mapping of filenames to natural-language transformation descriptions  
+
 ```
 
-- `images/` contains transformed digit images in PNG format.  
-- `image_descriptions.json` stores a dictionary mapping filenames to textual descriptions of the transformations.
+Each filename in`images/` begins with the digit label (0–9), followed by a sequential numerical identifier.
+The JSON file provides the corresponding text description for each transformed image.
 
 ---
 
